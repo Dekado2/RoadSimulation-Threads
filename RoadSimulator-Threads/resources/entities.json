@@ -1,0 +1,42 @@
+[
+	{
+		"type" : "Human"
+		"front" : [12,12]
+	},
+	{
+		"type" : "Human"
+		"front" : [7,7]
+	},
+	{
+		"type" : "Car"
+		"front" : [9,17]
+		"back" : [9,18]
+	},
+	{
+		"type" : "Car"
+		"front" : [10,4]
+		"back" : [10,3]
+	},
+	{
+		"type" : "Car"
+		"front" : [4,9]
+		"back" : [3,9]
+	},
+	{
+		"type" : "Car"
+		"front" : [17,10]
+		"back" : [18,10]
+	},
+	{
+		"type" : "Truck"
+		"front" : [14,10]
+		"middle" : [15,10]
+		"back" : [16,10]
+	},
+	{
+		"type" : "Truck"
+		"front" : [9,12]
+		"middle" : [9,13]
+		"back" : [9,14]
+	}
+]
